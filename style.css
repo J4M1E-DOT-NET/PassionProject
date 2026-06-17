@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+.home-page {
+    background-color: #ffffff;
+    color:rgb(0, 0, 0);
+    margin-left: 1cm;
+}
+.drawings-head {
+    color:#0b45c0
+}
+.projects-head {
+    color: #be0b0b
+}
+.recipes-head {
+    color: #e78e09
+}
+.reci-page {
+    
+    color: #ffffff;
+    -webkit-text-stroke: 1px rgb(179, 53, 3);
+    background-image: url("recipes-background.png");
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+.draw-page {
+    color: #ffffff;
+    -webkit-text-stroke: 1px rgb(18, 6, 124);
+    background-image: url("drawings-background.png");
+    background-repeat: no-repeat;
+     background-size: cover;
+}
+.proj-page {
+    color: #ffffff;
+    -webkit-text-stroke: 1px rgb(124, 6, 16);
+    background-image: url("projects-background.png");
+    background-repeat: no-repeat;
+     background-size: cover;
+}
